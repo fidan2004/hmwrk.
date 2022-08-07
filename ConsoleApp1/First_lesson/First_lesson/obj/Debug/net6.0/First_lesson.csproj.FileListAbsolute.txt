@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\First_lesson\First_lesson\bin\Debug\net6.0\First_lesson.exe
+C:\Users\Hp\source\repos\First_lesson\First_lesson\bin\Debug\net6.0\First_lesson.deps.json
+C:\Users\Hp\source\repos\First_lesson\First_lesson\bin\Debug\net6.0\First_lesson.runtimeconfig.json
+C:\Users\Hp\source\repos\First_lesson\First_lesson\bin\Debug\net6.0\First_lesson.dll
+C:\Users\Hp\source\repos\First_lesson\First_lesson\bin\Debug\net6.0\First_lesson.pdb
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.AssemblyInfo.cs
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.dll
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\refint\First_lesson.dll
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.pdb
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\First_lesson.genruntimeconfig.cache
+C:\Users\Hp\source\repos\First_lesson\First_lesson\obj\Debug\net6.0\ref\First_lesson.dll
